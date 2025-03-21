@@ -20,3 +20,7 @@ body {
     height: 100vh;
     justify-content: space-evenly;
 }
+.yellow {
+    background-color: yellow;
+
+}
