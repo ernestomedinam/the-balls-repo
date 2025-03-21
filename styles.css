@@ -21,3 +21,11 @@ body {
     justify-content: space-evenly;
     background-color: #EF9651;
 }
+.yellow {
+    background-color: yellow;
+
+}
+
+.green {
+    background-color: green;
+}
